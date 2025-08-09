@@ -12,7 +12,6 @@
     { "id": 5, "name": "Anklet", "price": "₹249", "image": "https://via.placeholder.com/200", "categoryId": 1 },
     { "id": 6, "name": "Maang Tikka", "price": "₹349", "image": "https://via.placeholder.com/200", "categoryId": 1 },
     { "id": 7, "name": "Nose Pin", "price": "₹99", "image": "https://via.placeholder.com/200", "categoryId": 1 },
-    { "id": 8, "name": "Bangles", "price": "₹399", "image": "https://via.placeholder.com/200", "categoryId": 1 },
     { "id": 9, "name": "Decorative Lamp", "price": "₹799", "image": "https://via.placeholder.com/200", "categoryId": 2 },
     { "id": 10, "name": "Gift Box", "price": "₹349", "image": "https://via.placeholder.com/200", "categoryId": 2 },
     { "id": 11, "name": "Personalized Mug", "price": "₹299", "image": "https://via.placeholder.com/200", "categoryId": 2 },
@@ -32,5 +31,6 @@
     { "id": 24, "name": "Shelf Decor Item", "price": "₹499", "image": "https://via.placeholder.com/200", "categoryId": 3 }
   ]
 }
+
 
 
