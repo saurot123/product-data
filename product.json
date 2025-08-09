@@ -6,7 +6,7 @@
   ],
   "products": [
     { "id": 1, "name": "Necklace Set", "price": "₹499", "image": "https://via.placeholder.com/200", "categoryId": 1 },
-    { "id": 2, "name": "Earrings", "price": "₹199", "image": "https://via.placeholder.com/200", "categoryId": 1 },
+    { "id": 2, "name": "Earrings", "price": "₹199", "image": "https://i.ibb.co/hxWXBgj5/Image.jpg", "categoryId": 1 },
     { "id": 3, "name": "Bracelet", "price": "₹299", "image": "https://via.placeholder.com/200", "categoryId": 1 },
     { "id": 4, "name": "Ring", "price": "₹149", "image": "https://via.placeholder.com/200", "categoryId": 1 },
     { "id": 5, "name": "Anklet", "price": "₹249", "image": "https://via.placeholder.com/200", "categoryId": 1 },
@@ -31,6 +31,7 @@
     { "id": 24, "name": "Shelf Decor Item", "price": "₹499", "image": "https://via.placeholder.com/200", "categoryId": 3 }
   ]
 }
+
 
 
 
